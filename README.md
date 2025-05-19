@@ -1,4 +1,14 @@
-## Hi there 👋
+🚀 Data Engineer | Big Data & Cloud Enthusiast
+
+Comprometido con aprender cad
+Apasionado por construir arquitecturas escalables de datos y soluciones eficientes en la nube. Siempre aprendiendo sobre nuevas tecnologías y compartiendo conocimiento.
+
+
+💻 Tecnologías: Python, SQL, PySpark, Airflow 
+☁️ Cloud: AWS (Glue, Redshift, Lambda, S3)
+📊 Datos: ETL/ELT, Data Warehousing, Data Pipelines, Stream Processing
+🔧 DevOps: Docker, CI/CD
+
 
 <!--
 **PabloPerezTI/PabloPerezTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
