@@ -1,6 +1,5 @@
 🚀 Data Engineer | Big Data & Cloud Enthusiast
 
-Comprometido con aprender cad
 Apasionado por construir arquitecturas escalables de datos y soluciones eficientes en la nube. Siempre aprendiendo sobre nuevas tecnologías y compartiendo conocimiento.
 
 
